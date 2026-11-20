@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+latest_scene.json
+config/camera_calibration.json
+
+latest_dual_scene.json
+*.tmp
+config/wrist_camera_calibration.json
+config/stereo_calibration.json
